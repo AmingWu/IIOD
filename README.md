@@ -5,4 +5,4 @@ This is the implementation of our paper [Instance-Invariant Domain Adaptive Obje
 <img src='./docs/fig1.png' width=900/>
 
 ## Introduction
-For the problem of domain adaptive object detection, it is important to obtain the instance-invariant features that are domain-invariant. To this end, this paper proposes a progressive disentangled framework to disentangle the domain-invariant features from the domain-specific features. 
+For domain adaptive object detection （DAOD）, it is important to obtain the instance-invariant features that are domain-invariant. To this end, this paper proposes a progressive disentangled framework to disentangle the domain-invariant features from the domain-specific features. 
