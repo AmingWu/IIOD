@@ -1,0 +1,6 @@
+M.fc1_x.weight
+M.fc1_x.bias
+M.fc1_y.weight
+M.fc1_y.bias
+M.fc2.weight
+M.fc2.bias

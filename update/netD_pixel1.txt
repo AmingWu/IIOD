@@ -1,0 +1,3 @@
+netD_pixel1.conv1.weight
+netD_pixel1.conv2.weight
+netD_pixel1.conv3.weight
